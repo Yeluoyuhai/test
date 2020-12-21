@@ -35,4 +35,4 @@ class Dataset_from_array(torch.utils.data.Dataset):
 
         return x, t
 # that's all
-
+# ok ok
