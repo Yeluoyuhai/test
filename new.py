@@ -34,4 +34,5 @@ class Dataset_from_array(torch.utils.data.Dataset):
             x = self.transform(x)
 
         return x, t
+# that's all
 
